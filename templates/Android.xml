@@ -1,0 +1,8 @@
+<templateSet group="Android">
+  <template name="tag" value="private static final String TAG = $class$.class.getSimpleName();" description="Create a new TAG for LogCat" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
