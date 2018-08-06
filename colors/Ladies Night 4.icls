@@ -559,7 +559,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e7b5e3" />
+        <option name="FOREGROUND" value="567374" />
+        <option name="EFFECT_COLOR" value="797c2d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
